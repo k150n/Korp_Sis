@@ -1,4 +1,7 @@
 # wowowowwow
+![image](https://github.com/user-attachments/assets/0c8095c9-5f85-455f-b7f6-233aad581950)
+![image](https://github.com/user-attachments/assets/a7680d2b-904f-4ec7-8548-63810aa4bcd4)
+
 
 A new Flutter project.
 
